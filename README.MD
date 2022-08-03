@@ -4,9 +4,15 @@ Takes the most prominent colour in an image and makes a sidebar in that colour i
 
 Meant to be used as a hacky way to "colour-code" Windows 11 virtual desktops.
 
-Uses multiprocessing to make things faster!
+## Examples
+### Blank example of how the wallpapers look in the desktop switcher
+![Blank example](https://i.imgur.com/EHYI7U7)
+### How I use this project to organize my desktops
+![Radded's own setup](https://i.imgur.com/N1KKb5r)
+### Same example as above but without the edited wallpapers
+![Same as above but without the edited wallpapers](https://i.imgur.com/haXqbd2)
 
-### Installation and usage instructions
+## Installation and usage instructions
 1. Clone the repo with\
 ```git clone github.com/RaddedMC/CategoryWalls```
 
