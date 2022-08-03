@@ -17,7 +17,7 @@ Meant to be used as a hacky way to "colour-code" Windows 11 virtual desktops.
 ```git clone github.com/RaddedMC/CategoryWalls```
 
 2. Install dependencies\
-```pip -r requirements.txt```
+```pip install -r requirements.txt```
 
 3. Load your favourite wallpapers into `source-images`
 
