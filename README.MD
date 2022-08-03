@@ -6,11 +6,11 @@ Meant to be used as a hacky way to "colour-code" Windows 11 virtual desktops.
 
 ## Examples
 ### Blank example of how the wallpapers look in the desktop switcher
-![Blank example](https://i.imgur.com/EHYI7U7)
+![Blank example](https://i.imgur.com/EHYI7U7.png)
 ### How I use this project to organize my desktops
-![Radded's own setup](https://i.imgur.com/N1KKb5r)
+![Radded's own setup](https://i.imgur.com/N1KKb5r.png)
 ### Same example as above but without the edited wallpapers
-![Same as above but without the edited wallpapers](https://i.imgur.com/haXqbd2)
+![Same as above but without the edited wallpapers](https://i.imgur.com/haXqbd2.png)
 
 ## Installation and usage instructions
 1. Clone the repo with\
